@@ -55,3 +55,7 @@ if __name__ == '__main__':
             f_test.write(item + '\n')
 
     print('数据集划分成功！')
+# The format of the txt file is shown below：
+# D:\MyDataSet\BI2K\1\68\68病灶1.jpg	1
+# D:\MyDataSet\BI2K\0\66\66003.jpg	0
+# D:\MyDataSet\BI2K\1\345_\345002.jpg	1

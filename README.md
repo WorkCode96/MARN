@@ -15,4 +15,4 @@ more details please see the requirements.txt
 The bronchoscopic dataset comprises 2900 images from 615 cases, which include 1350 normal images and 1550 lesion images. 
 
 The dataset can be downloaded at the following address:   
-https://www.kaggle.com/datasets/timesxy/bronchoscopic-dataset-bi2k.
+[https://www.kaggle.com/datasets/timesxy/bronchoscopic-dataset-bi2k](https://www.kaggle.com/datasets/timesxy/bronchoscopic-dataset-bi2k-3-classification).
